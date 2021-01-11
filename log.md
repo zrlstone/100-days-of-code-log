@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
-<h2 align=”center”>Day 7: 11 JAN 2021</h2>
-### Day 7: JAN 11
+## 100 Days Of Code - Log
+
+### Day 7: 11 JAN 2021
 
 **Today's Progress**: Continued work on portfolio using Gatsby. 
 
