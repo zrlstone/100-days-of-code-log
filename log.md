@@ -1,4 +1,9 @@
 ## 100 Days Of Code - Log
+### Day 8: 12 JAN 2021
+
+**Today's Progress**: Lewagon javascript plugins challenge using mapbox. Implmented some bootstrap.
+
+**Thoughts**: Need to review how to link javascript files.
 
 ### Day 7: 11 JAN 2021
 
