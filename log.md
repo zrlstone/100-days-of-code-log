@@ -1,4 +1,12 @@
 ## 100 Days Of Code - Log
+### Day 9: 13 JAN 2021
+
+**Today's Progress**: Added graphql to link blog md posts to the blog page of the site.
+
+**Thoughts**: Great fun learning some basic graphql. Interested in implementing in the future.
+
+Link: https://github.com/zrlstone/dev-portfolio
+
 ### Day 8: 12 JAN 2021
 
 **Today's Progress**: Lewagon javascript plugins challenge using mapbox. Implmented some bootstrap.
