@@ -1,4 +1,16 @@
 ## 100 Days Of Code - Log
+### Day 11: 15 JAN 2021
+
+**Today's Progress**: Just hackerrank challenges today. Covered arrays and recursion.
+
+**Thoughts**: Enjoying learning different algorithms and their implementation.
+
+### Day 10: 14 JAN 2021
+
+**Today's Progress**: Le Wagon work on javascript plugins. Did some hackerrank challenges in python.
+
+**Thoughts**: Want to build more front-end stuff with vanilla CSS to practice
+
 ### Day 9: 13 JAN 2021
 
 **Today's Progress**: Added graphql to link blog md posts to the blog page of the site.
