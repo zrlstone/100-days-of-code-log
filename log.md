@@ -1,4 +1,9 @@
 ## 100 Days Of Code - Log
+### Day 12: 16 JAN 2021
+
+**Today's Progress**: Spent day prototyping MVP. In the eveing, I did some more hackerrank challenges covering recursion.
+
+**Thoughts**: Really fun day designing UX and UI on figma
 ### Day 11: 15 JAN 2021
 
 **Today's Progress**: Just hackerrank challenges today. Covered arrays and recursion.
