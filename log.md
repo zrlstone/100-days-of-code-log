@@ -1,4 +1,14 @@
 ## 100 Days Of Code - Log
+### Day 14: 18 JAN 2021
+
+**Today's Progress**: Went back to optional le wagon challenges with ruby
+
+**Thoughts**: surprise about the difference in my confidence now compared to 3 months ago when I originally tried these challenges
+### Day 13: 17 JAN 2021
+
+**Today's Progress**: Completed challenges on hackerrack
+
+**Thoughts**: Enjoying this platform
 ### Day 12: 16 JAN 2021
 
 **Today's Progress**: Spent day prototyping MVP. In the eveing, I did some more hackerrank challenges covering recursion.
