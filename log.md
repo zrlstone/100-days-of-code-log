@@ -1,4 +1,10 @@
 ## 100 Days Of Code - Log
+### Day 14: 19 JAN 2021
+
+**Today's Progress**: Built a very small web app with rails called stupid coach
+
+**Thoughts**: Enjoyed building and testing with rails
+### Day 13: 17 JAN 2021
 ### Day 14: 18 JAN 2021
 
 **Today's Progress**: Went back to optional le wagon challenges with ruby
