@@ -1,9 +1,13 @@
 ## 100 Days Of Code - Log
-### Day 15: 19 JAN 2021
+### Day 17: 20 JAN 2021
+Today's Progress: Completed letter guessing game as a rails app
+
+
+### Day 16: 20 JAN 2021
 Today's Progress: Completed option le wagon coding challenges
 
 Thoughts: Going to spend more time with recursive algorithms in ruby
-### Day 14: 19 JAN 2021
+### Day 15: 19 JAN 2021
 
 **Today's Progress**: Built a very small web app with rails called stupid coach
 
