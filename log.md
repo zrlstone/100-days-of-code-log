@@ -1,4 +1,9 @@
 ## 100 Days Of Code - Log
+
+### Day 18: 20 JAN 2021
+Today's Progress: Completed option le wagon coding challenges on hashes and arrays
+
+Thoughts: Tough day, but managed to get in 1 hour of code tonight
 ### Day 17: 20 JAN 2021
 Today's Progress: Completed letter guessing game as a rails app
 
