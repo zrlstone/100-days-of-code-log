@@ -1,37 +1,61 @@
 ## 100 Days Of Code - Log
 
-### Day 18: 20 JAN 2021
+### Day 20: 24 JAN 2021
+Today's Progress: Worked on gatsby portfolio. Added create page for markdown blog posts
+
+Thoughts: Tough day, but managed to get in 1 hour of code tonight
+
+Link: 1. [Dev Portfolio](https://github.com/zrlstone/dev-portfolio)
+
+### Day 19: 23 JAN 2021
+
+Today's Progress: Made a task list rails app 
+
+Thoughts: Getting used to the MVC framework
+
+Link: 1. [Task manager app](https://github.com/zrlstone/rails-task-manager)
+
+### Day 18: 22 JAN 2021
+
 Today's Progress: Completed option le wagon coding challenges on hashes and arrays
 
 Thoughts: Tough day, but managed to get in 1 hour of code tonight
-### Day 17: 20 JAN 2021
+
+### Day 17: 21 JAN 2021
+
 Today's Progress: Completed letter guessing game as a rails app
 
 
 ### Day 16: 20 JAN 2021
+
 Today's Progress: Completed option le wagon coding challenges
 
 Thoughts: Going to spend more time with recursive algorithms in ruby
+
 ### Day 15: 19 JAN 2021
 
 **Today's Progress**: Built a very small web app with rails called stupid coach
 
 **Thoughts**: Enjoyed building and testing with rails
+
 ### Day 14: 18 JAN 2021
 
 **Today's Progress**: Went back to optional le wagon challenges with ruby
 
 **Thoughts**: surprise about the difference in my confidence now compared to 3 months ago when I originally tried these challenges
+
 ### Day 13: 17 JAN 2021
 
 **Today's Progress**: Completed challenges on hackerrack
 
 **Thoughts**: Enjoying this platform
+
 ### Day 12: 16 JAN 2021
 
 **Today's Progress**: Spent day prototyping MVP. In the eveing, I did some more hackerrank challenges covering recursion.
 
 **Thoughts**: Really fun day designing UX and UI on figma
+
 ### Day 11: 15 JAN 2021
 
 **Today's Progress**: Just hackerrank challenges today. Covered arrays and recursion.
