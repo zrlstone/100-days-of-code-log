@@ -1,9 +1,10 @@
 ## 100 Days Of Code - Log
+### Day 21: 25 JAN 2021
+Today's Progress: Worked on le wagon optional challenges
+
 
 ### Day 20: 24 JAN 2021
 Today's Progress: Worked on gatsby portfolio. Added create page for markdown blog posts
-
-Thoughts: Tough day, but managed to get in 1 hour of code tonight
 
 Link: 1. [Dev Portfolio](https://github.com/zrlstone/dev-portfolio)
 
