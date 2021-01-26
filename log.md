@@ -1,4 +1,11 @@
 ## 100 Days Of Code - Log
+### Day 22: 26 JAN 2021
+
+Today's Progress: Made a static job application page. Made a simple yelp type review app with rails.
+
+Thoughts: Playing with lots of HTML/CSS/JS
+
+
 ### Day 21: 25 JAN 2021
 Today's Progress: Worked on le wagon optional challenges
 
