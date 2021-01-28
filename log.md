@@ -1,4 +1,12 @@
 ## 100 Days Of Code - Log
+### Day 24: 28 JAN 2021
+
+Today's Progress: rails app yelp type app
+
+### Day 23: 27 JAN 2021
+
+Today's Progress: Worked on the application page
+
 ### Day 22: 26 JAN 2021
 
 Today's Progress: Made a static job application page. Made a simple yelp type review app with rails.
