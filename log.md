@@ -1,4 +1,11 @@
 ## 100 Days Of Code - Log
+
+### Day 25: 28 JAN 2021
+
+Today's Progress: rails app on codecademy
+
+Thoughts: simple build with new rails apps
+
 ### Day 24: 28 JAN 2021
 
 Today's Progress: rails app yelp type app
