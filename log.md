@@ -1,6 +1,22 @@
 ## 100 Days Of Code - Log
 
-### Day 25: 28 JAN 2021
+### Day 27: 30 JAN 2021
+
+Today's Progress: Continued with cocktail app
+
+Thoughts: Learned about using simpleform
+
+Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
+
+### Day 26: 30 JAN 2021
+
+Today's Progress: Started making mister cocktail app
+
+Thoughts: having fun with rails. Good to be able to make web apps
+
+Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail)
+
+### Day 25: 29 JAN 2021
 
 Today's Progress: rails app on codecademy
 
