@@ -4,6 +4,13 @@
 
 Today's Progress: Continued with cocktail app
 
+
+Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
+
+### Day 27: 30 JAN 2021
+
+Today's Progress: Continued with cocktail app
+
 Thoughts: Learned about using simpleform
 
 Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
