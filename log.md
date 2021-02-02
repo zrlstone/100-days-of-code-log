@@ -1,6 +1,12 @@
 ## 100 Days Of Code - Log
+### Day 29: 30 JAN 2021
 
-### Day 27: 30 JAN 2021
+Today's Progress: Continued with cocktail app
+
+
+Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
+
+### Day 28: 30 JAN 2021
 
 Today's Progress: Continued with cocktail app
 
