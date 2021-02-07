@@ -1,25 +1,45 @@
 ## 100 Days Of Code - Log
-### Day 30: 30 JAN 2021
+### Day 33: 06 FEB 2021
+
+Today's Progress: Started building a garden rental app with rails. Defined user stories, made a db scheme, migrated the models, made a landing page and deployed to heroku.
+
+Thoughts: Feels great to have the cocktail app deployed. Now working in a team on the next app which is fun!
+
+
+Link: 1. [Cocktails](https://github.com/AsiaCiesla/garden-escape) 
+### Day 32: 05 FEB 2021
+
+Today's Progress: Deployed the cocktail app on heroku
+
+
+Link: 1. [Remixology App](https://remixologyapp.herokuapp.com/) 
+### Day 31: 04 FEB 2021
 
 Today's Progress: Continued with cocktail app
 
 
 Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
-### Day 29: 30 JAN 2021
+### Day 30: 03 FEB 2021
+
+Today's Progress: Continued with cocktail app
+
+
+Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
+### Day 29: 02 FEB 2021
 
 Today's Progress: Continued with cocktail app
 
 
 Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
 
-### Day 28: 30 JAN 2021
+### Day 28: 01 FEB 2021
 
 Today's Progress: Continued with cocktail app
 
 
 Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
 
-### Day 27: 30 JAN 2021
+### Day 27: 31 JAN 2021
 
 Today's Progress: Continued with cocktail app
 
