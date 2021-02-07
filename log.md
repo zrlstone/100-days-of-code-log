@@ -6,7 +6,7 @@ Today's Progress: Started building a garden rental app with rails. Defined user 
 Thoughts: Feels great to have the cocktail app deployed. Now working in a team on the next app which is fun!
 
 
-Link: 1. [Cocktails](https://github.com/AsiaCiesla/garden-escape) 
+Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape) 
 ### Day 32: 05 FEB 2021
 
 Today's Progress: Deployed the cocktail app on heroku
