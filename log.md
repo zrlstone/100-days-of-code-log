@@ -1,4 +1,8 @@
 ## 100 Days Of Code - Log
+### Day 34: 07 FEB 2021
+
+Today's Progress: Added user authentication to cocktail app 
+
 ### Day 33: 06 FEB 2021
 
 Today's Progress: Started building a garden rental app with rails. Defined user stories, made a db scheme, migrated the models, made a landing page and deployed to heroku.
