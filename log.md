@@ -1,4 +1,16 @@
 ## 100 Days Of Code - Log
+### Day 37: 10 FEB 2021
+
+Today's Progress: Hacker rank challenges
+
+### Day 36: 09 FEB 2021
+
+Today's Progress: Added models, controllers and cloudinary to garden app
+
+Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape) 
+### Day 35: 08 FEB 2021
+
+Today's Progress: Shopping cart challenge in le wagon
 ### Day 34: 07 FEB 2021
 
 Today's Progress: Added user authentication to cocktail app 
