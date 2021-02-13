@@ -1,4 +1,19 @@
 ## 100 Days Of Code - Log
+### Day 40: 13 FEB 2021
+
+Today's Progress: added geocoding to airbnb app
+
+Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape) 
+
+### Day 39: 12 FEB 2021
+
+Today's Progress: hacker rank challenges
+
+### Day 38: 11 FEB 2021
+
+Today's Progress: added index and show pages to airbnb style app
+Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape) 
+
 ### Day 37: 10 FEB 2021
 
 Today's Progress: Hacker rank challenges
