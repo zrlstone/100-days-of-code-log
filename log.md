@@ -1,4 +1,9 @@
 ## 100 Days Of Code - Log
+### Day 41: 13 FEB 2021
+
+Today's Progress: hackerrank challenges in python
+
+
 ### Day 40: 13 FEB 2021
 
 Today's Progress: added geocoding to airbnb app
