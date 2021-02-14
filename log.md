@@ -1,5 +1,5 @@
 ## 100 Days Of Code - Log
-### Day 41: 13 FEB 2021
+### Day 41: 14 FEB 2021
 
 Today's Progress: hackerrank challenges in python
 
