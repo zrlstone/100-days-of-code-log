@@ -1,4 +1,34 @@
 ## 100 Days Of Code - Log
+
+
+### Day 48: 22 FEB 2021
+
+Today's Progress: python hackerrank challenges
+
+### Day 47: 20 FEB 2021
+
+Today's Progress: finished airbnb app
+
+Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape) 
+
+### Day 46: 19 FEB 2021
+
+Today's Progress: python hackerrank challenges
+
+### Day 45: 18 FEB 2021
+
+Today's Progress: airbnb app
+
+### Day 44: 17 FEB 2021
+
+Today's Progress: python hackerrank challenges
+
+### Day 43: 16 FEB 2021
+
+Today's Progress: airbnb app
+
+Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape) 
+
 ### Day 42: 15 FEB 2021
 
 Today's Progress: hackerrank challenges in python
