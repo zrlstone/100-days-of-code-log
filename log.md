@@ -8,7 +8,7 @@ Building a new rails app and exploring implementing pundit
 
 Today's Progress: python hackerrank challenges. Staring the open rehearsal project
 
-Link: 1. [Garden Escape](https://open-rehearsal.herokuapp.com/) 
+Link: 1. [Open Rehearsal](https://open-rehearsal.herokuapp.com/) 
 
 ### Day 49: 22 FEB 2021
 
