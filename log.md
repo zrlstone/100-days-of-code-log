@@ -1,7 +1,20 @@
 ## 100 Days Of Code - Log
 
+### Day 51: 24 FEB 2021
 
-### Day 48: 22 FEB 2021
+Building a new rails app and exploring implementing pundit 
+
+### Day 50: 23 FEB 2021
+
+Today's Progress: python hackerrank challenges. Staring the open rehearsal project
+
+Link: 1. [Garden Escape](https://open-rehearsal.herokuapp.com/) 
+
+### Day 49: 22 FEB 2021
+
+Today's Progress: python hackerrank challenges
+
+### Day 48: 21 FEB 2021
 
 Today's Progress: python hackerrank challenges
 
