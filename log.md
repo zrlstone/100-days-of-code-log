@@ -1,4 +1,9 @@
 ## 100 Days Of Code - Log
+### Day 52: 24 FEB 2021
+
+Today's Progress: home page of open rehearsal project
+
+Link: 1. [Open Rehearsal](https://open-rehearsal.herokuapp.com/) 
 
 ### Day 51: 24 FEB 2021
 
