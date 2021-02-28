@@ -1,5 +1,22 @@
 ## 100 Days Of Code - Log
-### Day 52: 24 FEB 2021
+
+### Day 55: 28 FEB 2021
+
+Today's Progress: Le wagon ruby challenges
+
+### Day 54: 27 FEB 2021
+
+Today's Progress: Continued with open-rehearsal challenge
+
+Link: 1. [Open Rehearsal](https://open-rehearsal.herokuapp.com/)
+
+### Day 53: 26 FEB 2021
+
+Today's Progress: open rehearsal project
+
+Link: 1. [Open Rehearsal](https://open-rehearsal.herokuapp.com/)
+
+### Day 52: 25 FEB 2021
 
 Today's Progress: home page of open rehearsal project
 
