@@ -5,8 +5,8 @@ Today's Progress: Easybank challenge on frontendmentor.io
 Started putting a portfolio together
 
 
-Link: 1. [easybank](zakstone.dev/easybank)
-Link: 2. [portfolio](zakstone.dev)
+Link: 1. [easybank](www.zakstone.dev/easybank)
+Link: 2. [portfolio](www.zakstone.dev)
 
 ### Day 55: 28 FEB 2021
 
