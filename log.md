@@ -1,4 +1,11 @@
 ## 100 Days Of Code - Log
+
+### Day 57: 27 FEB 2021
+
+Today's Progress: Continued with open-rehearsal challenge
+
+Link: 1. [Open Rehearsal](https://open-rehearsal.herokuapp.com/)
+
 ### Day 56: 01 MAR 2021
 
 Today's Progress: Easybank challenge on frontendmentor.io
