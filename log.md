@@ -1,6 +1,12 @@
 ## 100 Days Of Code - Log
 
-### Day 57: 27 FEB 2021
+### Day 58: 03 MAR 2021
+
+Today's Progress: Built and deployed portfolio
+
+Link: 1. [Portfolio](www.zakstone.dev)
+
+### Day 57: 02 MAR 2021
 
 Today's Progress: Continued with open-rehearsal challenge
 
