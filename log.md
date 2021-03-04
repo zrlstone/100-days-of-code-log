@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+### Day 59: 04 MAR 2021
+
+Today's Progress: Finished portfolio. Continued working on open rehearsal.
+
+Link: 1. [Portfolio](www.zakstone.dev)
+
 ### Day 58: 03 MAR 2021
 
 Today's Progress: Built and deployed portfolio
