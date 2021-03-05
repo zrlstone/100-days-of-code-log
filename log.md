@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+### Day 60: 05 MAR 2021
+
+Today's Progress: Continued working on open rehearsal
+
+Link: 1. Link: 1. [Open Rehearsal](https://www.openrehearsal.co.uk)
+
 ### Day 59: 04 MAR 2021
 
 Today's Progress: Finished portfolio. Continued working on open rehearsal.
