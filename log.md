@@ -1,6 +1,10 @@
 ## 100 Days Of Code - Log
 
-### Day 61: 05 MAR 2021
+### Day 62: 07 MAR 2021
+
+Today's Progress: Did some coding challenges on Le wagon kit
+
+### Day 61: 06 MAR 2021
 
 Today's Progress: Continued working on open rehearsal
 
