@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 63: 08 MAR 2021
+
+Today's Progress: Did some coding challenges on Le wagon kit
+
 ### Day 62: 07 MAR 2021
 
 Today's Progress: Did some coding challenges on Le wagon kit
