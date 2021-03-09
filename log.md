@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+### Day 64: 09 MAR 2021
+
+Today's Progress: Worked on open rehearsal.
+
+Link: 1. Link: 1. [Open Rehearsal](https://www.openrehearsal.co.uk)
+
 ### Day 63: 08 MAR 2021
 
 Today's Progress: Did some coding challenges on Le wagon kit
