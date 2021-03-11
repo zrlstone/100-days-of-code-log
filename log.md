@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 65: 11 MAR 2021
+
+Today's Progress: Worked on open rehearsal
+
 ### Day 65: 10 MAR 2021
 
 Today's Progress: Worked on some coding challenges
