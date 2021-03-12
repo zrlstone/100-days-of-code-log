@@ -1,6 +1,10 @@
 ## 100 Days Of Code - Log
 
-### Day 65: 11 MAR 2021
+### Day 67: 12 MAR 2021
+
+Today's Progress: Worked on Rails Guide
+
+### Day 66: 11 MAR 2021
 
 Today's Progress: Worked on open rehearsal
 
