@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 69: 14 MAR 2021
+
+Today's Progress:  Worked on a sample app with Rails tutorial. Learning how to write tests.
+
 ### Day 68: 13 MAR 2021
 
 Today's Progress:  Worked on open rehearsal
