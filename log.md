@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 70: 15 MAR 2021
+
+Today's Progress:  Kata on code wars
+
 ### Day 69: 14 MAR 2021
 
 Today's Progress:  Worked on a sample app with Rails tutorial. Learning how to write tests.
