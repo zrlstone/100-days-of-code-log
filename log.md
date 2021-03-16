@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 71: 15 MAR 2021
+
+Today's Progress:  Worked on open rehearsal
+
 ### Day 70: 15 MAR 2021
 
 Today's Progress:  Kata on code wars
