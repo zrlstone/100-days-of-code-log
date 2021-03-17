@@ -1,6 +1,11 @@
 ## 100 Days Of Code - Log
 
-### Day 71: 15 MAR 2021
+### Day 72: 17 MAR 2021
+
+Today's Progress:  OOP challenges on kit
+
+
+### Day 71: 16 MAR 2021
 
 Today's Progress:  Worked on open rehearsal
 
