@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 74: 19 MAR 2021
+
+Today's Progress: Hackerrank challenges
+
 ### Day 73: 18 MAR 2021
 
 Today's Progress:  Coding the front end of the request page on open rehearsal
