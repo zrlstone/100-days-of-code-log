@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 75: 20 MAR 2021
+
+Today's Progress: Open Rehearsal
+
 ### Day 74: 19 MAR 2021
 
 Today's Progress: Hackerrank challenges
