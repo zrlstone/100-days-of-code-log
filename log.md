@@ -1,6 +1,10 @@
 ## 100 Days Of Code - Log
 
-### Day 75: 21 MAR 2021
+### Day 77: 22 MAR 2021
+
+Today's Progress: Coding challenge with ruby
+
+### Day 76: 21 MAR 2021
 
 Today's Progress: Coding challenge with ruby
 
