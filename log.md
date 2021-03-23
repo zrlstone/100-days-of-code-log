@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+### Day 78: 23 MAR 2021
+
+Today's Progress:  Coding the front end of the request page on open rehearsal
+
+Link: 1. Link: 1. [Open Rehearsal](https://www.openrehearsal.co.uk)
+
 ### Day 77: 22 MAR 2021
 
 Today's Progress: Coding challenge with ruby
