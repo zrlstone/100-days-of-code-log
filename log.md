@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 79: 24 MAR 2021
+
+Today's Progress:  Making starter rails apps
+
 ### Day 78: 23 MAR 2021
 
 Today's Progress:  Coding the front end of the request page on open rehearsal
