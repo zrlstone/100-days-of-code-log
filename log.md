@@ -1,5 +1,11 @@
 ## 100 Days Of Code - Log
 
+### Day 80: 25 MAR 2021
+
+Today's Progress:  Open rehearsal
+
+Link: 1. Link: 1. [Open Rehearsal](https://www.openrehearsal.co.uk)
+
 ### Day 79: 24 MAR 2021
 
 Today's Progress:  Making starter rails apps
