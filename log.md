@@ -1,5 +1,14 @@
 ## 100 Days Of Code - Log
 
+### Day 83: 28 MAR 2021
+
+Today's Progress:  Codewars challenges
+
+### Day 82: 27 MAR 2021
+
+Today's Progress:  Demo day! Final day of work on open rehearsal.
+
+Link: 1. Link: 1. [Open Rehearsal](https://www.openrehearsal.co.uk)
 
 ### Day 81: 26 MAR 2021
 
