@@ -1,5 +1,10 @@
 ## 100 Days Of Code - Log
 
+
+### Day 86: 01 APR 2021
+
+Today's Progress: album artwork generator
+
 ### Day 86: 31 MAR 2021
 
 Today's Progress:  Code wars challenges
