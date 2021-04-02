@@ -1,7 +1,11 @@
 ## 100 Days Of Code - Log
 
 
-### Day 86: 01 APR 2021
+### Day 88: 02 APR 2021
+
+Today's Progress: JS 30 days challenge
+
+### Day 87: 01 APR 2021
 
 Today's Progress: album artwork generator
 
