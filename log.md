@@ -1,5 +1,13 @@
 ## 100 Days Of Code - Log
 
+### Day 90: 04 APR 2021
+
+Today's Progress: JS 30 days challenge
+
+### Day 89: 03 APR 2021
+
+Today's Progress: JS 30 days challenge
+
 
 ### Day 88: 02 APR 2021
 
