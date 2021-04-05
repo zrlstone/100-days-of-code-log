@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 91: 04 APR 2021
+
+Today's Progress: rails minitest added to sample app. JS challenge - update CSS variables and JS
+
 ### Day 90: 04 APR 2021
 
 Today's Progress: JS 30 days challenge
