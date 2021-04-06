@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 92: 06 APR 2021
+
+Today's Progress: rails app html added. JS challenge - array methods (sort, map, reduce and filter)
+
 ### Day 91: 05 APR 2021
 
 Today's Progress: rails minitest added to sample app. JS challenge - update CSS variables and JS
