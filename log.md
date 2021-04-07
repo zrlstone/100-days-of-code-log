@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 93: 07 APR 2021
+
+Today's Progress: JS challenge - making a flex view
+
 ### Day 92: 06 APR 2021
 
 Today's Progress: rails app html added. JS challenge - array methods (sort, map, reduce and filter)
