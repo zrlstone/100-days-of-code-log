@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 94: 08 APR 2021
+
+Today's Progress: JS challenge - API search box
+
 ### Day 93: 07 APR 2021
 
 Today's Progress: JS challenge - making a flex view
