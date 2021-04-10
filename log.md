@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 96: 10 APR 2021
+
+Today's Progress: JS challenge - Canvas
+
 ### Day 95: 09 APR 2021
 
 Today's Progress: JS challenge - Array Cardio and Rails tutorial
