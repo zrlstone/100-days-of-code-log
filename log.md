@@ -1,6 +1,6 @@
 ## 100 Days Of Code - Log
 
-### Day 97: 10 APR 2021
+### Day 97: 11 APR 2021
 
 Today's Progress: JS challenge - Dev tools. Rails app - bootstrap and user model added
 
