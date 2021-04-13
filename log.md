@@ -1,4 +1,8 @@
 ## 100 Days Of Code - Log
+### Day 99: 13 APR 2021
+
+Today's Progress: JS challenge - Custom Video player
+
 ### Day 98: 12 APR 2021
 
 Today's Progress: JS challenge - Multi shift select
