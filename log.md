@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 101: 14 APR 2021
+
+Today's Progress: JS Konami code
+
 ### Day 100: 14 APR 2021
 
 Today's Progress: started project care call (video coms app). Started with the le wagon devise template.
