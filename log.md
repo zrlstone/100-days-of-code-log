@@ -1,6 +1,10 @@
 ## 100 Days Of Code - Log
 
-### Day 101: 14 APR 2021
+### Day 101: 16 APR 2021
+
+Today's Progress: JS  Image slider
+
+### Day 101: 15 APR 2021
 
 Today's Progress: JS Konami code
 
