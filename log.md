@@ -1,6 +1,10 @@
 ## 100 Days Of Code - Log
 
-### Day 101: 16 APR 2021
+### Day 103: 17 APR 2021
+
+Today's Progress: Search app
+
+### Day 102: 16 APR 2021
 
 Today's Progress: JS  Image slider
 
