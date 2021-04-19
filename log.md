@@ -1,5 +1,10 @@
 ## 100 Days Of Code - Log
 
+
+### Day 105: 19 APR 2021
+
+Today's Progress: Search app
+
 ### Day 104: 18 APR 2021
 
 Today's Progress: Search app
