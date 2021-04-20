@@ -1,6 +1,11 @@
 ## 100 Days Of Code - Log
 
 
+### Day 106: 20 APR 2021
+
+Today's Progress: JS references vs copying
+
+
 ### Day 105: 19 APR 2021
 
 Today's Progress: Search app
