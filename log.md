@@ -1,5 +1,10 @@
 ## 100 Days Of Code - Log
-### Day 109: 24 APR 2021
+
+### Day 111: 25 APR 2021
+
+Today's Progress: API Challenge
+
+### Day 110: 24 APR 2021
 
 Today's Progress: API Challenge
 
