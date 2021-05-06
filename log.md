@@ -1,15 +1,20 @@
 ## 100 Days Of Code - Log
 
 
-### Day 118: 05 MAY 2021
+### Day 122: 05 MAY 2021
+
+Today's Progress: code kata with Ruby
+
+
+### Day 121: 05 MAY 2021
 
 Today's Progress: le wagon TAing
 
-### Day 118: 04 MAY 2021
+### Day 120: 04 MAY 2021
 
 Today's Progress: le wagon TAing
 
-### Day 118: 03 MAY 2021
+### Day 119: 03 MAY 2021
 
 Today's Progress: le wagon TAing
 
