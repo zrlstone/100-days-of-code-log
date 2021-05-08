@@ -1,5 +1,9 @@
 ## 100 Days Of Code - Log
 
+### Day 122: 08 MAY 2021
+
+Today's Progress: 30 days of codde javascript shadow mouse move
+
 ### Day 122: 07 MAY 2021
 
 Today's Progress: 30 days of codde javascript
