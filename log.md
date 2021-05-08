@@ -1,7 +1,11 @@
 ## 100 Days Of Code - Log
 
+### Day 122: 07 MAY 2021
 
-### Day 122: 05 MAY 2021
+Today's Progress: 30 days of codde javascript
+
+
+### Day 122: 06 MAY 2021
 
 Today's Progress: code kata with Ruby
 
