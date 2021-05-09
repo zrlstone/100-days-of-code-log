@@ -1,4 +1,34 @@
-## 100 Days Of Code - Log
+# 100 Days Of Code - Log
+
+Daily log of everything I am working on during the 100 days of code challenge
+
+## Rules
+
+1. Code for at least 30 minutes everyday
+
+## Rounds
+
+| No          | Date Started|
+| ----------- | ----------- |
+| [1](https://github.com) | 5 JAN, 2021 |
+| [2] Current  | 15 APR, 2021|
+
+
+### Day 122: 08 MAY 2021
+
+**Today's Progress:**
+
+- Javascript 30 Challenge
+
+**New thing(s) learned:**
+
+- [Javascript Local Storage and Event Delegation](https://github.com/zrlstone/javascript30/tree/master/15%20-%20LocalStorage)
+
+**New thing(s) learned:**
+
+- Using JSON.stringify and JSON.parse to persist form data in localStorage.
+
+---
 
 ### Day 122: 08 MAY 2021
 
@@ -7,7 +37,6 @@ Today's Progress: 30 days of codde javascript shadow mouse move
 ### Day 122: 07 MAY 2021
 
 Today's Progress: 30 days of codde javascript
-
 
 ### Day 122: 06 MAY 2021
 
@@ -329,17 +358,17 @@ Link: 1. [Open Rehearsal](https://open-rehearsal.herokuapp.com/)
 
 Today's Progress: home page of open rehearsal project
 
-Link: 1. [Open Rehearsal](https://open-rehearsal.herokuapp.com/) 
+Link: 1. [Open Rehearsal](https://open-rehearsal.herokuapp.com/)
 
 ### Day 51: 24 FEB 2021
 
-Building a new rails app and exploring implementing pundit 
+Building a new rails app and exploring implementing pundit
 
 ### Day 50: 23 FEB 2021
 
 Today's Progress: python hackerrank challenges. Staring the open rehearsal project
 
-Link: 1. [Open Rehearsal](https://open-rehearsal.herokuapp.com/) 
+Link: 1. [Open Rehearsal](https://open-rehearsal.herokuapp.com/)
 
 ### Day 49: 22 FEB 2021
 
@@ -353,7 +382,7 @@ Today's Progress: python hackerrank challenges
 
 Today's Progress: finished airbnb app
 
-Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape) 
+Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape)
 
 ### Day 46: 19 FEB 2021
 
@@ -371,7 +400,7 @@ Today's Progress: python hackerrank challenges
 
 Today's Progress: airbnb app
 
-Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape) 
+Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape)
 
 ### Day 42: 15 FEB 2021
 
@@ -386,7 +415,7 @@ Today's Progress: hackerrank challenges in python
 
 Today's Progress: added geocoding to airbnb app
 
-Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape) 
+Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape)
 
 ### Day 39: 12 FEB 2021
 
@@ -395,7 +424,7 @@ Today's Progress: hacker rank challenges
 ### Day 38: 11 FEB 2021
 
 Today's Progress: added index and show pages to airbnb style app
-Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape) 
+Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape)
 
 ### Day 37: 10 FEB 2021
 
@@ -405,13 +434,13 @@ Today's Progress: Hacker rank challenges
 
 Today's Progress: Added models, controllers and cloudinary to garden app
 
-Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape) 
+Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape)
 ### Day 35: 08 FEB 2021
 
 Today's Progress: Shopping cart challenge in le wagon
 ### Day 34: 07 FEB 2021
 
-Today's Progress: Added user authentication to cocktail app 
+Today's Progress: Added user authentication to cocktail app
 
 ### Day 33: 06 FEB 2021
 
@@ -420,38 +449,38 @@ Today's Progress: Started building a garden rental app with rails. Defined user 
 Thoughts: Feels great to have the cocktail app deployed. Now working in a team on the next app which is fun!
 
 
-Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape) 
+Link: 1. [Garden Escape](https://github.com/AsiaCiesla/garden-escape)
 ### Day 32: 05 FEB 2021
 
 Today's Progress: Deployed the cocktail app on heroku
 
 
-Link: 1. [Remixology App](https://remixologyapp.herokuapp.com/) 
+Link: 1. [Remixology App](https://remixologyapp.herokuapp.com/)
 ### Day 31: 04 FEB 2021
 
 Today's Progress: Continued with cocktail app
 
 
-Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
+Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail)
 ### Day 30: 03 FEB 2021
 
 Today's Progress: Continued with cocktail app
 
 
-Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
+Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail)
 ### Day 29: 02 FEB 2021
 
 Today's Progress: Continued with cocktail app
 
 
-Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
+Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail)
 
 ### Day 28: 01 FEB 2021
 
 Today's Progress: Continued with cocktail app
 
 
-Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
+Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail)
 
 ### Day 27: 31 JAN 2021
 
@@ -459,7 +488,7 @@ Today's Progress: Continued with cocktail app
 
 Thoughts: Learned about using simpleform
 
-Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail) 
+Link: 1. [Cocktails](https://github.com/zrlstone/rails-mister-cocktail)
 
 ### Day 26: 30 JAN 2021
 
@@ -501,7 +530,7 @@ Link: 1. [Dev Portfolio](https://github.com/zrlstone/dev-portfolio)
 
 ### Day 19: 23 JAN 2021
 
-Today's Progress: Made a task list rails app 
+Today's Progress: Made a task list rails app
 
 Thoughts: Getting used to the MVC framework
 
@@ -576,7 +605,7 @@ Link: https://github.com/zrlstone/dev-portfolio
 
 ### Day 7: 11 JAN 2021
 
-**Today's Progress**: Continued work on portfolio using Gatsby. 
+**Today's Progress**: Continued work on portfolio using Gatsby.
 
 **Thoughts**: Enjoyed the creative side of building simple visuals
 
@@ -586,7 +615,7 @@ Link: https://github.com/zrlstone/dev-portfolio
 
 ### Day 6: JAN 10
 
-**Today's Progress**: Ruby challenge - roman numeral converter 
+**Today's Progress**: Ruby challenge - roman numeral converter
 
 **Thoughts**: fun session trying to solve a clearly defined problem.
 
@@ -612,16 +641,16 @@ Link: https://github.com/zrlstone/dev-portfolio
 **Thoughts**: Getting better with javascript in front-end work
 
 
-### Day 2: JAN 06, 2021 
+### Day 2: JAN 06, 2021
 
 **Today's Progress**: Completing coding challenges with ruby - converting morse code to words and verifying credit card numbers using luhn algorithm.
 
-**Thoughts:** Getting more confident with ruby and exploring implementing algorithms 
+**Thoughts:** Getting more confident with ruby and exploring implementing algorithms
 
 
-### Day 1: JAN 05, 2021 
+### Day 1: JAN 05, 2021
 
-**Today's Progress**: Started 100 day of code challenge with javascript challenges on le wagon 
+**Today's Progress**: Started 100 day of code challenge with javascript challenges on le wagon
 
 **Thoughts:** Excited to get going with this challenge!
 
