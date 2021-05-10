@@ -13,14 +13,21 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
+### Day 126: Mon 10 MAY, 2021
 
-### Day 122: Sun 9 MAY, 2021
+**Today's Progress:**
+
+- Code wars challenges this evening with Ruby
+
+---
+
+### Day 125: Sun 9 MAY, 2021
 
 **Today's Progress:**
 
 - Javascript 30 Challenge
 
-**New thing(s) learned:**
+**Links:**
 
 - [Javascript Local Storage and Event Delegation](https://github.com/zrlstone/javascript30/tree/master/15%20-%20LocalStorage)
 
@@ -30,11 +37,11 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 ---
 
-### Day 122: 08 MAY 2021
+### Day 124: 08 MAY 2021
 
 Today's Progress: 30 days of codde javascript shadow mouse move
 
-### Day 122: 07 MAY 2021
+### Day 123: 07 MAY 2021
 
 Today's Progress: 30 days of codde javascript
 
