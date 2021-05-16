@@ -17,7 +17,7 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 **Today's Progress:**
 
-- Jquery modals
+- Jquery modals.
 
 ---
 
