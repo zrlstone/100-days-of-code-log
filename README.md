@@ -13,7 +13,21 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
-### Day 136: Wednesday 19 MAY, 2021
+
+### Day 136: Wednesday 21 MAY, 2021
+
+**Today's Progress:**
+
+- Adding new flow to a cancellation workflow
+- Wanting to learn more RSpec to make it easier to test
+
+**New thing(s) learned:**
+
+- the params hash on Go Rails. Getting data from url query params, routes and forms
+
+---
+
+### Day 136: Wednesday 20 MAY, 2021
 
 **Today's Progress:**
 
