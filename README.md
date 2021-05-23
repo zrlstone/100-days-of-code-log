@@ -13,14 +13,26 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
-### Day 137: Wednesday 21 MAY, 2021
+### Day 138: sunday 22 MAY, 2021
+
+**Today's Progress:**
+
+- Making a tweet scheduling app
+
+**New thing(s) learned:**
+
+- how flashes work
+
+---
+
+### Day 137: Saturday 21 MAY, 2021
 
 **Today's Progress:**
 
 - Writing tests with RSpec for a blog app
 
 
-### Day 136: Wednesday 21 MAY, 2021
+### Day 136: Friday 21 MAY, 2021
 
 **Today's Progress:**
 
@@ -33,7 +45,7 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 ---
 
-### Day 136: Wednesday 20 MAY, 2021
+### Day 136: Thursday 20 MAY, 2021
 
 **Today's Progress:**
 
