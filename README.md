@@ -13,7 +13,15 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
-### Day 138: sunday 22 MAY, 2021
+### Day 139: sunday 23 MAY, 2021
+
+**Today's Progress:**
+
+- Writing specs for tests
+
+---
+
+### Day 138: Sunday 22 MAY, 2021
 
 **Today's Progress:**
 
