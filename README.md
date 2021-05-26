@@ -13,7 +13,22 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
-### Day 139: sunday 23 MAY, 2021
+### Day 141: Wednesday 25 MAY, 2021
+
+**Today's Progress:**
+
+- fixing bugs
+
+
+### Day 140: Tuesday 24 MAY, 2021
+
+**Today's Progress:**
+
+- Getting the hang of using Materialise css library and haml
+
+---
+
+### Day 139: Monday 23 MAY, 2021
 
 **Today's Progress:**
 
