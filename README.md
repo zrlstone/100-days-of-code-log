@@ -13,14 +13,27 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
-### Day 141: Wednesday 25 MAY, 2021
+### Day 143: Friday 28 MAY, 2021
+
+**Today's Progress:**
+
+- Making a dapp with moralis
+
+### Day 142: Thursday 27 MAY, 2021
+
+**Today's Progress:**
+
+- Jquery and materialize modals
+
+
+### Day 141: Wednesday 26 MAY, 2021
 
 **Today's Progress:**
 
 - fixing bugs
 
 
-### Day 140: Tuesday 24 MAY, 2021
+### Day 140: Tuesday 25 MAY, 2021
 
 **Today's Progress:**
 
@@ -28,7 +41,7 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 ---
 
-### Day 139: Monday 23 MAY, 2021
+### Day 139: Monday 24 MAY, 2021
 
 **Today's Progress:**
 
@@ -36,7 +49,7 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 ---
 
-### Day 138: Sunday 22 MAY, 2021
+### Day 138: Sunday 23 MAY, 2021
 
 **Today's Progress:**
 
@@ -48,7 +61,7 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 ---
 
-### Day 137: Saturday 21 MAY, 2021
+### Day 137: Saturday 22 MAY, 2021
 
 **Today's Progress:**
 
