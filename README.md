@@ -13,6 +13,24 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
+### Day 146: Monday 31 MAY, 2021
+
+**Today's Progress:**
+
+- Gorails tutorial
+
+### Day 145: Sunday 30 MAY, 2021
+
+**Today's Progress:**
+
+- Javascript learning (codecademy)
+
+### Day 144: Saturday 29 MAY, 2021
+
+**Today's Progress:**
+
+- Javascript learning (codecademy)
+
 ### Day 143: Friday 28 MAY, 2021
 
 **Today's Progress:**
