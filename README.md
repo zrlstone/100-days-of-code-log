@@ -13,6 +13,12 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
+### Day 147: Tuesday 01 Jun, 2021
+
+**Today's Progress:**
+
+- Adding modal pop-up to for customer ratings
+
 ### Day 146: Monday 31 MAY, 2021
 
 **Today's Progress:**
