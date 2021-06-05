@@ -13,57 +13,81 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
-### Day 148: Wednesday 02 Jun, 2021
+### Day 152: Saturday 05 JUN, 2021
+
+**Today's Progress:**
+
+- Rails flashes
+
+---
+
+### Day 151: Friday 04 JUN, 2021
+
+**Today's Progress:**
+
+- Rails carousel feature
+
+---
+
+### Day 150: Thursday 03 JUN, 2021
+
+**Today's Progress:**
+
+- Rails carousel feature
+
+---
+
+### Day 149: Wednesday 02 Jun, 2021
 
 **Today's Progress:**
 
 - Ajax requests with rails
 
-### Day 147: Tuesday 01 Jun, 2021
+### Day 148: Tuesday 01 Jun, 2021
 
 **Today's Progress:**
 
 - Adding modal pop-up to for customer ratings
 
-### Day 146: Monday 31 MAY, 2021
+### Day 147: Monday 31 MAY, 2021
 
 **Today's Progress:**
 
 - Gorails tutorial
 
-### Day 145: Sunday 30 MAY, 2021
+### Day 146: Sunday 30 MAY, 2021
 
 **Today's Progress:**
 
 - Javascript learning (codecademy)
 
-### Day 144: Saturday 29 MAY, 2021
+### Day 145: Saturday 29 MAY, 2021
 
 **Today's Progress:**
 
 - Javascript learning (codecademy)
 
-### Day 143: Friday 28 MAY, 2021
+### Day 144: Friday 28 MAY, 2021
 
 **Today's Progress:**
 
 - Making a dapp with moralis
 
-### Day 142: Thursday 27 MAY, 2021
+### Day 143: Thursday 27 MAY, 2021
 
 **Today's Progress:**
 
 - Jquery and materialize modals
 
 
-### Day 141: Wednesday 26 MAY, 2021
+### Day 142: Wednesday 26 MAY, 2021
 
 **Today's Progress:**
 
 - fixing bugs
 
 
-### Day 140: Tuesday 25 MAY, 2021
+### Day 141: Tuesday 25 MAY, 2021
 
 **Today's Progress:**
 
@@ -71,7 +95,7 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 ---
 
-### Day 139: Monday 24 MAY, 2021
+### Day 140: Monday 24 MAY, 2021
 
 **Today's Progress:**
 
@@ -79,7 +103,7 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 ---
 
-### Day 138: Sunday 23 MAY, 2021
+### Day 139: Sunday 23 MAY, 2021
 
 **Today's Progress:**
 
@@ -91,14 +115,14 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 ---
 
-### Day 137: Saturday 22 MAY, 2021
+### Day 138: Saturday 22 MAY, 2021
 
 **Today's Progress:**
 
 - Writing tests with RSpec for a blog app
 
 
-### Day 136: Friday 21 MAY, 2021
+### Day 137: Friday 21 MAY, 2021
 
 **Today's Progress:**
 
