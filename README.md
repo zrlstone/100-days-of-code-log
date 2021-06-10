@@ -13,7 +13,26 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
-### Day 155: Saturday 08 JUN, 2021
+
+
+### Day 157: Thursday 10 JUN, 2021
+
+**Today's Progress:**
+
+- JS Carousel
+
+---
+
+
+### Day 156: Wednesday 09 JUN, 2021
+
+**Today's Progress:**
+
+- Debugging with binding.pry
+
+---
+
+### Day 155: Tuesday 08 JUN, 2021
 
 **Today's Progress:**
 
@@ -21,7 +40,7 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 ---
 
-### Day 154: Saturday 07 JUN, 2021
+### Day 154: Monday 07 JUN, 2021
 
 **Today's Progress:**
 
@@ -29,7 +48,7 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 ---
 
-### Day 153: Saturday 06 JUN, 2021
+### Day 153: Sunday 06 JUN, 2021
 
 **Today's Progress:**
 
