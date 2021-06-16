@@ -13,7 +13,15 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
-### Day 162: Monday 15 JUN, 2021
+### Day 163: Tuesday 16 JUN, 2021
+
+**Today's Progress:**
+
+- Deployment on linux and db backup
+
+---
+
+### Day 162: Tuesday 15 JUN, 2021
 
 **Today's Progress:**
 
