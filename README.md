@@ -13,7 +13,31 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
-### Day 169: Sunday 22 JUN, 2021
+### Day 171: Thursday 24 JUN, 2021
+
+**Today's Progress:**
+
+- New questionnaire project
+
+**New thing(s) learned:**
+
+- setting up models and controllers for project
+
+---
+
+### Day 170: Wednesday 23 JUN, 2021
+
+**Today's Progress:**
+
+- New questionnaire project new
+
+**New thing(s) learned:**
+
+- setting up rspec in a new project
+
+---
+
+### Day 169: Tuesday 22 JUN, 2021
 
 **Today's Progress:**
 
@@ -21,7 +45,7 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 ---
 
-### Day 168: Sunday 21 JUN, 2021
+### Day 168: Monday 21 JUN, 2021
 
 **Today's Progress:**
 
