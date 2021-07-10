@@ -14,6 +14,12 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
 
+### Day 187: Saturday 10 Jul, 2021
+
+**Today's Progress:**
+
+- TA - rails new projects
+
 ### Day 186: Friday 9 Jul, 2021
 
 **Today's Progress:**
