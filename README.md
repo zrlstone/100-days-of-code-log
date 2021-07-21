@@ -13,6 +13,16 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
+### Day 199: Thursday 22 Jul, 2021
+
+
+
+### Day 198: Wednesday 21 Jul, 2021
+
+**Today's Progress:**
+
+- Adding actions to questionnaire app to update a popup of risk warnings
+
 ### Day 197: Tuesday 20 Jul, 2021
 
 **Today's Progress:**
