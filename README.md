@@ -15,6 +15,9 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 ### Day 199: Thursday 22 Jul, 2021
 
+**Today's Progress:**
+
+- Fixing an API request issue
 
 
 ### Day 198: Wednesday 21 Jul, 2021
