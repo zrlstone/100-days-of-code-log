@@ -13,6 +13,18 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
+### Day 203: Tuesday 27 Jul, 2021
+
+**Today's Progress:**
+
+- Materialize form javascript
+
+### Day 203: Monday 26 Jul, 2021
+
+**Today's Progress:**
+
+- Materialize form javascript
+
 ### Day 202: Sunday 25 Jul, 2021
 
 **Today's Progress:**
