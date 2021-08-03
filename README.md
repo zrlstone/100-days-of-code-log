@@ -13,6 +13,17 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
+### Day 211: Tuesday 3rd August, 2021
+
+**Today's Progress:**
+
+- CSS styling of multiple choice questions page
+- Fixing error caused by failing get requests
+
+**New thing(s) learned:**
+
+- Using back ticks to run command line commands such as 'curl' in ruby
+
 ### Day 210: Monday 2nd August, 2021
 
 **Today's Progress:**
