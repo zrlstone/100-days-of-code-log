@@ -13,6 +13,18 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
+### Day 215: Saturday 7th August, 2021
+
+**Today's Progress:**
+
+- React le wagon tutorial
+
+### Day 214: Friday 6th August, 2021
+
+**Today's Progress:**
+
+- Fixing a rails bug
+
 ### Day 213: Thursday 5th August, 2021
 
 **Today's Progress:**
