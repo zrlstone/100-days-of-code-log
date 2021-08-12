@@ -13,6 +13,16 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
+### Day 220: Thursday 13th August, 2021
+
+**Today's Progress:**
+
+- adding stripe refund route to rails app
+
+**New thing(s) learned:**
+
+- testing api calls with postman and curl
+
 ### Day 219: Wednesday 12th August, 2021
 
 **Today's Progress:**
