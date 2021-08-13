@@ -13,7 +13,17 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
-### Day 220: Thursday 13th August, 2021
+### Day 221: Friday 13th August, 2021
+
+**Today's Progress:**
+
+- adding stripe refund route to rails app
+
+**New thing(s) learned:**
+
+- scopes and specificity with css. The importance of using class selectors to decouple css from the HTML and how this makes it easier to maintain.
+
+### Day 220: Thursday 12th August, 2021
 
 **Today's Progress:**
 
@@ -23,13 +33,13 @@ Daily log of everything I am working on during the 100 days of code challenge
 
 - testing api calls with postman and curl
 
-### Day 219: Wednesday 12th August, 2021
+### Day 219: Wednesday 11th August, 2021
 
 **Today's Progress:**
 
 - Stripe payment refund feature
 
-### Day 218: Tuesday 11th August, 2021
+### Day 218: Tuesday 10th August, 2021
 
 **Today's Progress:**
 
@@ -40,7 +50,7 @@ Daily log of everything I am working on during the 100 days of code challenge
 - rails layout and rendering structure. How to use javascript in the asset pipeline
 
 
-### Day 217: Monday 10th August, 2021
+### Day 217: Monday 9th August, 2021
 
 **Today's Progress:**
 
