@@ -13,6 +13,12 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
+### Day 222: Saturday 14th August, 2021
+
+**Today's Progress:**
+
+- css styling survey app
+
 ### Day 221: Friday 13th August, 2021
 
 **Today's Progress:**
