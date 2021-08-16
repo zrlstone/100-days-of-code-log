@@ -13,6 +13,19 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
+
+### Day 224: Monday 16th August, 2021
+
+**Today's Progress:**
+
+- rails ecommerce app - fixing bugs
+
+### Day 223: Sunday 15th August, 2021
+
+**Today's Progress:**
+
+- css styling survey app
+
 ### Day 222: Saturday 14th August, 2021
 
 **Today's Progress:**
