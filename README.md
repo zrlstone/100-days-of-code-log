@@ -14,6 +14,30 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
 
+### Day 228: Friday 20th August, 2021
+
+**Today's Progress:**
+
+- Front-end quiz app
+
+### Day 227: Thursday19th August, 2021
+
+**Today's Progress:**
+
+- Pending orders feature
+
+### Day 226: Wednesday 18th August, 2021
+
+**Today's Progress:**
+
+- Stripe refund feature
+
+### Day 225: Tuesday 17th August, 2021
+
+**Today's Progress:**
+
+- Backend of quiz app
+
 ### Day 224: Monday 16th August, 2021
 
 **Today's Progress:**
