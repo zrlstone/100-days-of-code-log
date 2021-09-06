@@ -14,6 +14,30 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
 
+### Day 241: Monday 6th September, 2021
+
+**Today's Progress:**
+
+- Questionnaire front-end
+
+### Day 240: Sunday 5th September, 2021
+
+**Today's Progress:**
+
+- RSpec testing rails
+
+### Day 239: Saturday 4th September, 2021
+
+**Today's Progress:**
+
+- Rails mailers
+
+### Day 238: Friday 3rd September, 2021
+
+**Today's Progress:**
+
+- Orders flow with quotations
+
 ### Day 238: Thursday 2nd September, 2021
 
 **Today's Progress:**
