@@ -13,19 +13,32 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
-### Day 244: Friday 12th September, 2021
+### Day 249: Monday 14th September, 2021
+
+**Today's Progress:**
+
+- stimulus js front end questionnaire app
+
+
+### Day 248: Monday 13th September, 2021
 
 **Today's Progress:**
 
 - Rspec tests
 
-### Day 244: Saturday 11th September, 2021
+### Day 247: Sunday 12th September, 2021
+
+**Today's Progress:**
+
+- Rspec tests
+
+### Day 246: Saturday 11th September, 2021
 
 **Today's Progress:**
 
 - Rails controller tests
 
-### Day 244: Friday 10th September, 2021
+### Day 245: Friday 10th September, 2021
 
 **Today's Progress:**
 
