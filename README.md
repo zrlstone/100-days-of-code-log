@@ -13,6 +13,12 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
+### Day 256 - 274: Tuesday 5th October, 2021
+
+**Today's Progress:**
+
+- homepage redesign
+
 ### Day 255 - 273: Monday 4th October, 2021
 
 **Today's Progress:**
