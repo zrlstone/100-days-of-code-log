@@ -14,38 +14,51 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
 
-### Day 257 - 277: Friday 8th October, 2021
+### Day 279: Saturday 11th October, 2021
+
+**Today's Progress:**
+
+- Javscript fundamentals
+
+
+### Day 278: Saturday 10th October, 2021
+
+**Today's Progress:**
+
+- Solidity tutorial
+
+### Day 277: Friday 8th October, 2021
 
 **Today's Progress:**
 
 - homepage redesign
 
-### Day 258 - 276: Thursday 7th October, 2021
+### Day 276: Thursday 7th October, 2021
 
 **Today's Progress:**
 
 - homepage redesign
 
-### Day 257 - 275: Wednesday 6th October, 2021
+### Day 275: Wednesday 6th October, 2021
 
 **Today's Progress:**
 
 - homepage redesign
 
-### Day 256 - 274: Tuesday 5th October, 2021
+### Day 274: Tuesday 5th October, 2021
 
 **Today's Progress:**
 
 - homepage redesign
 
-### Day 255 - 273: Monday 4th October, 2021
+### Day 273: Monday 4th October, 2021
 
 **Today's Progress:**
 
 - Solidity Freecodecamp tutorial - getting test network funds
 - homepage redesign
 
-### Day 254 - 272: Sunday 3rd October, 2021
+### Day 272: Sunday 3rd October, 2021
 
 **Today's Progress:**
 
