@@ -14,20 +14,82 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
 
-### Day 280: Monday 12th October, 2021
+### Day 290: Wednesday 21st October, 2021
+
+**Today's Progress:**
+
+- Guest checkout feature
+
+### Day 289: Wednesday 20th October, 2021
+
+**Today's Progress:**
+
+- Soliditiy Album platform
+
+### Day 288: Tuesday 19th October, 2021
 
 **Today's Progress:**
 
 - Categories feature
 
-### Day 279: Sunday 11th October, 2021
+### Day 287: Monday 18th October, 2021
+
+**Today's Progress:**
+
+- Categories feature
+
+### Day 286: Sunday 17th October, 2021
+
+**Today's Progress:**
+
+- Categories feature
+
+### Day 285: Saturday 16th October, 2021
+
+**Today's Progress:**
+
+- Categories feature
+
+### Day 284: Friday 15th October, 2021
+
+**Today's Progress:**
+
+- Categories feature
+
+### Day 283: Thursday 14th October, 2021
+
+**Today's Progress:**
+
+- Categories feature
+
+### Day 282: Wednesday 13th October, 2021
+
+**Today's Progress:**
+
+- Categories feature
+
+
+### Day 281: Tuesday 12th October, 2021
+
+**Today's Progress:**
+
+- Categories feature
+
+
+### Day 280: Monday 11th October, 2021
+
+**Today's Progress:**
+
+- Categories feature
+
+### Day 279: Sunday 10th October, 2021
 
 **Today's Progress:**
 
 - Javscript fundamentals
 
 
-### Day 278: Saturday 10th October, 2021
+### Day 278: Saturday 9th October, 2021
 
 **Today's Progress:**
 
