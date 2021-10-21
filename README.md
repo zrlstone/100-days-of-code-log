@@ -14,7 +14,13 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
 
-### Day 279: Saturday 11th October, 2021
+### Day 280: Monday 12th October, 2021
+
+**Today's Progress:**
+
+- Categories feature
+
+### Day 279: Sunday 11th October, 2021
 
 **Today's Progress:**
 
