@@ -14,6 +14,18 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
 
+### Day 293: Saturday 25th October, 2021
+
+**Today's Progress:**
+
+- Guest checkout
+
+### Day 293: Saturday 24th October, 2021
+
+**Today's Progress:**
+
+- Le wagon class prep
+
 ### Day 292: Saturday 23rd October, 2021
 
 **Today's Progress:**
