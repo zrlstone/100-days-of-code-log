@@ -13,14 +13,47 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
+### Day 299: Saturday 30th October, 2021
 
-### Day 293: Saturday 25th October, 2021
+**Today's Progress:**
+
+- La wagon TA prep - Ruby OOP
+
+### Day 298: Friday 29th October, 2021
 
 **Today's Progress:**
 
 - Guest checkout
 
-### Day 293: Saturday 24th October, 2021
+
+### Day 297: Thursday 28th October, 2021
+
+**Today's Progress:**
+
+- Le wagon ta
+
+
+### Day 296: Wednesday 27th October, 2021
+
+**Today's Progress:**
+
+- Guest checkout
+
+
+### Day 295: Tuesday 26th October, 2021
+
+**Today's Progress:**
+
+- Guest checkout
+
+
+### Day 294: Monday 25th October, 2021
+
+**Today's Progress:**
+
+- Guest checkout
+
+### Day 293: Sunday 24th October, 2021
 
 **Today's Progress:**
 
