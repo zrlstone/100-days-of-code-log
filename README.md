@@ -13,13 +13,19 @@ Daily log of everything I am working on during the 100 days of code challenge
 | [1](https://github.com/zrlstone/100-days-of-code-log/blob/master/Round%201/round_1.md) | 5 JAN, 2021 |
 | [2](https://github.com/zrlstone/100-days-of-code-log) Current  | 15 APR, 2021|
 
-### Day 300: Friday 5th November, 2021
+### Day 306: Saturday 6th November, 2021
+
+**Today's Progress:**
+
+- La wagon TA
+
+### Day 305: Friday 5th November, 2021
 
 **Today's Progress:**
 
 - La wagon TA prep
 
-### Day 300: Thursday 4th November, 2021
+### Day 304: Thursday 4th November, 2021
 
 **Today's Progress:**
 
